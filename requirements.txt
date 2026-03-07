@@ -1,0 +1,12 @@
+# Tushare Pro API
+tushare>=1.2.89
+
+# Environment and paths
+python-dotenv>=1.0.0
+
+# Data and I/O
+pandas>=2.0.0
+duckdb>=0.9.0
+
+# Progress and retry
+tqdm>=4.65.0

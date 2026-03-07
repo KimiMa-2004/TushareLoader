@@ -1,0 +1,10 @@
+/logs
+
+# All the __pycache__
+*__pycache__
+
+/.cursor
+/.env
+
+test.ipynb
+test.py
